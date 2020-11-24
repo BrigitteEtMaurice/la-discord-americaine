@@ -1,3 +1,4 @@
+const path = require("path");
 const dotenv = require("dotenv");
 const Discord = require("discord.js");
 
@@ -11,7 +12,7 @@ client.once("ready", () => {
 
 client.on("message", (message) => {
   if (message.content === "!hello") {
-    message.channel.send("You suck !");
+    message.channel.send("You suck Brigitte !");
   }
 });
 
