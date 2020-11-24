@@ -1,0 +1,19 @@
+{
+  "name": "la-discord-americaine",
+  "version": "0.1.0",
+  "description": "Le bot le plus classe du monde",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrigitteEtMaurice/la-discord-americaine.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrigitteEtMaurice/la-discord-americaine/issues"
+  },
+  "homepage": "https://github.com/BrigitteEtMaurice/la-discord-americaine#readme",
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "dotenv": "^8.2.0"
+  }
+}
