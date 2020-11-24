@@ -7,7 +7,7 @@ Le bot le plus classe du monde.
 Install
 
 ```bash
-git clone
+git clone https://github.com/BrigitteEtMaurice/la-discord-americaine
 cd la-discord-americaine
 npm install
 ```
